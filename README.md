@@ -19,8 +19,8 @@ Enfin, nous devrions prendre en compte les contraintes techniques de la communic
 
 
 ### Etapes :
- - Faire un écran qui puisse se mettre à jour. (<span style:"color:yellow; font-weight:bold">2 séances</span>)
- - Faire une manette de test qui envoie des ordres à l’écran en bluetooth (<span style:"color:yellow; font-weight:bold">3 séance</span>)
- - Faire plsrs petits jeux vidéos (<span style:"color:yellow; font-weight:bold">2 séances</span>)
- - Gérer l’affichage des jeux videos (<span style:"color:yellow; font-weight:bold">4 séances</span>)
- - Gérer les controles des jeux videos (<span style:"color:yellow; font-weight:bold">2</span>)
+ - Faire un écran qui puisse se mettre à jour. (**`2 séances`**)
+ - Faire une manette de test qui envoie des ordres à l’écran en bluetooth (**`3 séance`**)
+ - Faire plsrs petits jeux vidéos (**`2 séances`**)
+ - Gérer l’affichage des jeux videos (**`4 séances`**)
+ - Gérer les controles des jeux videos (**`2 séances`**)
